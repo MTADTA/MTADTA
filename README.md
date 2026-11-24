@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
-  <img alt="Jordan Reinecke: Bespoke tools, for bespoke products, for bespoke experiences. A blueprint of the Supercaster guitar I designed in code." src="banner-dark.png" width="100%">
+  <img alt="Jordan Reinecke: Bespoke tools, for bespoke products, for bespoke experiences. Each letter of my name is filled with a piece of my work: code, sound, music video frames, the Guitar Hero Live stage, a circuit, a CAD model and what viewers said." src="banner-dark.png" width="100%">
 </picture>
 
 Creative technologist, multimedia artist, video editor and agentic coder from Richmond, VA. I build workflow automation with AI agents so there's more room for human creativity and more stories get told.
