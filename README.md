@@ -17,4 +17,4 @@ I design, direct, test and decide what ships. AI coding agents (Claude Code, Cod
 
 I write, sing and play lead guitar as Jordan Rein, signed to Shockoe Records.
 
-[jordan@jordanreinmusic.com](mailto:jordan@jordanreinmusic.com) · [Music site](https://www.jordanreinmusic.com/) · [YouTube](https://www.youtube.com/@Jordanreinmusic)
+**[Portfolio](https://mtadta.github.io/)** · [jordan@jordanreinmusic.com](mailto:jordan@jordanreinmusic.com) · [Music site](https://www.jordanreinmusic.com/) · [YouTube](https://www.youtube.com/@Jordanreinmusic)
